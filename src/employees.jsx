@@ -4,7 +4,6 @@ let holly = 'Holly Unlikely'
 let amol = 'Amol Shookup'
 let robin = 'Robin A'
 let aron = 'Aron B'
-let Ted = 'Ted Mosby'
 let Jee = 'Jeevan Rohith'
 const element = (
     <ul style={{'color':'green', 'fontSize': '20px'}}>
@@ -14,7 +13,6 @@ const element = (
         <li>{amol}</li>
         <li>{robin}</li>
         <li>{aron}</li>
-        <li>{Ted}</li>
         <li>{Jee}</li>
 
     </ul>
