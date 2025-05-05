@@ -4,7 +4,6 @@ let holly = 'Holly Unlikely';
 let amol = 'Amol Shookup';
 let robin = 'Robin A';
 let aron = 'Aron B';
-let Ted = 'Ted Mosby';
 let Jee = 'Jeevan Rohith';
 const element = /*#__PURE__*/React.createElement("ul", {
   style: {
